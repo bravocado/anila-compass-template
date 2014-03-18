@@ -1,0 +1,8 @@
+{
+  "name": "anila-compass-template",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "anila": "bravocado/bower-anila"
+  }
+}
