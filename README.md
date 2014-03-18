@@ -1,6 +1,6 @@
 # Anila Compass Template
 
-a starter pack for using Anila and Compass
+A Compass template for Anila
 
 ## Requirements
   * Ruby 1.9+
