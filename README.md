@@ -11,17 +11,17 @@ A Compass template for Anila
 ## Quickstart
   * [Download this starter compass project and unzip it](https://github.com/bravocado/anila-compass-template/archive/master.zip)
   * Run `bower install` to install the latest version of Anila
-  
-Then when you're working on your project, just run the following command:
+	* run `compass compile` to compile or `compass watch` to watch the files.
 
-```bash
-compass watch
-```
+## Using Command Line Tools
+	* run `[sudo] gem install anila`
+	* run `anila new [project folder]`
+	* run `compass compile` to compile or `compass watch` to watch the files.
+  
 
 ## Upgrading
 
 If you'd like to upgrade to a newer version of Anila down the road just run:
-
-```bash
-bower update
-```
+	
+	* using bower : `bower update`
+	* using CLI : `anila update`
